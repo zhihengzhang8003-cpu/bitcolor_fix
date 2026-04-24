@@ -1,0 +1,3 @@
+QUARTUS_VERSION = "22.1"
+DATE = "2025"
+PROJECT_REVISION = "bitcolor_fix"
